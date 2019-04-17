@@ -31,6 +31,71 @@ what is an economic base
       multiplier = 1+g = 2.5
  
  
+ What do we use this shit for?
+    
+    IMPACT ANALYSIS - e.g. Amazon and new HQ and what would be the economic input on adding
+    Forecastimg - forecast what economy might be if you take exports as exogenous 
+    B = basic = export = exogenous to region
+    
+Another use of EB theory
+  Y = C + I
+  Income = Consumption + Investment    
+ 
+ Or Y = C + [I + G] where G is government spending and is exogenous. Let's also assume that I + G are exogenous. This is an identity. By introducing a behavioral model, we model behavior. 
+ 
+ Behavioral assumption = C = a + cY where 
+  a = autonomous consuption
+  c = marginal propensity for consumption = percentage of each addnl dollar w/ income we spend on consuption
+  Y = income
+  
+  so Y = C + I + G
+  Y = (a + cY) + I + G
+  
+ endogenous - Y, C                            exogenous = I, G
+ 
+ Y - (a + cY) = I + G
+ Y - a - cY = I + G
+ (1 - c)Y - a = I + G
+ (1 - c)Y = I + G + a
+ Y = (a + I + G)/(1 - c)
+ Y = [1 / (1 - c)](a + I + G)
+ 
+ our multiplier = 1/(1 - c)
+ where c = percentage of income used to consume shit. btwn 0-1
+ 
+ 
+ 
+ multiplier = 1/(1 - c) ---> 1/(1- (c-m)) where m is the marginal imports (percentage of income used to import)
+ 
+ so if c = 0.6 and m = 0.2 
+ 
+ then 1/(1 - 0.4) = 1.67
+ 
+ 
+ 
+ 
+ * Critiques - **Campbell's Law**. The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
