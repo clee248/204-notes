@@ -76,6 +76,36 @@ Another use of EB theory
  
  
  
+ Common data sources - census, dept of congress, BEA - collects data on income, employment, county
+ 
+ https://www.bea.gov/data/economic-accounts/regional
+ 
+ 
+ e = region
+ ei = industry within that region
+ 
+ total employment in region = sum of employment in all industries w/in that region
+ 
+ Ei = employment in industries in all of US
+ 
+ Total employment is sum of employment in all regions in the US
+ 
+ LQi = (ei/e)/(Ei/E)
+
+If LQ > 1, i is basic
+If LQ < 1, i is nonbasic/local/service
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
  * Critiques - **Campbell's Law**. The more any quantitative social indicator is used for social decision-making, 
  the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social 
  processes it is intended to monitor.
