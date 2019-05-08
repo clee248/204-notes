@@ -1,0 +1,15 @@
+exercise 1
+open jupyter
+dl data (.csv)
+
+line codes ID employment sectors
+made aggregation profiles
+  d1 d2 d3 d4
+for profile in aggregation_profiles:
+  print(profile)
+  
+  
+For profile in aggregation_profiles:
+  us = data[['linecode', 'description', 'c_00000']]
+  us = us
+
